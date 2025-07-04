@@ -41,7 +41,8 @@ https://www.notion.so/temp-2227119fc6918083b5c3cc4a054e3a67
 
 ## 👻작동 방식
 
-LOCAL 환경 : 해당 Repo에 있는 파일 다운 후 Terminal에서 docker-compose up -d 입력 후 실행
+LOCAL 환경 : 해당 Repo(https://github.com/aivle5thMp/README)에 있는 파일 다운 후 Terminal에서 docker-compose up -d 입력 후 실행
+
 Azure 배포 사이트: http://20.249.106.10:5173/
 
 ## 🙋‍♀️ 프로젝트 기능
