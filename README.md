@@ -110,3 +110,5 @@ Azure 배포 사이트: http://20.249.106.10:5173/
 ### 구독 신청
 
 ![image](https://github.com/user-attachments/assets/3b032480-794f-4c7a-97d2-14cf5b77d89e)
+![image](https://github.com/user-attachments/assets/dc0c09af-ef2e-4ce4-a429-b1b9e6e721f7)
+
