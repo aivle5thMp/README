@@ -97,8 +97,16 @@ Azure 배포 사이트: http://20.249.106.10:5173/
 ![image](https://github.com/user-attachments/assets/beff736a-f392-44ea-8c01-ecee25e15ccf)
 
 ---
-### AI 검토 및 생성 기능 작동 (FrontEnd에서는 보이지 않음)
+### AI 검토 및 생성 기능 작동 (FrontEnd에서는 보이지 않음) (AI)
 
 
 ---
+### 출간 완료(Author)
 
+![image](https://github.com/user-attachments/assets/51264fe5-0fb4-4ef4-8d8e-caf265d6d54d)
+![image](https://github.com/user-attachments/assets/22995674-6d60-477f-8b05-38d290935672)
+
+---
+### 구독 신청
+
+![image](https://github.com/user-attachments/assets/3b032480-794f-4c7a-97d2-14cf5b77d89e)
