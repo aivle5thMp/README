@@ -16,6 +16,7 @@ AIVLE에서 주관하는 5차 미니프로젝트 12조에서 사용한 코드입
   1. 작가 신청 → 심사(Admin) → AI 지원 출간 → 구독/결제 → 알림까지  
   2. 구독 서비스를 결제할 경웅 오디오 북 접근 가능
   3. 상위 5개 도서 **베스트셀러**에 등재
+     
 
 ## 🏗 서비스 구성
 
@@ -31,19 +32,23 @@ AIVLE에서 주관하는 5차 미니프로젝트 12조에서 사용한 코드입
 | 8  | points            | 8087     | 포인트 트랜잭션 관리                                          |
 | 9  | notifications     | 8088     | 사용자 알림 발송                                              |
 
+
 ## 🔧 아키텍처
 
  ![image](https://github.com/user-attachments/assets/77c1d6d9-a816-4a1a-91e8-201eac21d844)
 
+
 ## 🤖 API 설계 목록
 
 https://www.notion.so/temp-2227119fc6918083b5c3cc4a054e3a67
+
 
 ## 👻작동 방식
 
 LOCAL 환경 : 해당 Repo(https://github.com/aivle5thMp/README)에 있는 파일 다운 후 Terminal에서 docker-compose up -d 입력 후 실행
 
 Azure 배포 사이트: http://20.249.106.10:5173/
+
 
 ## 🙋‍♀️ 프로젝트 기능
 ---
