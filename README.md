@@ -39,7 +39,12 @@ AIVLE에서 주관하는 5차 미니프로젝트 12조에서 사용한 코드입
 
 https://www.notion.so/temp-2227119fc6918083b5c3cc4a054e3a67
 
-🙋‍♀️ 프로젝트 기능
+## 👻작동 방식
+
+LOCAL 환경 : 해당 Repo에 있는 파일 다운 후 Terminal에서 docker-compose up -d 입력 후 실행
+Azure 배포 사이트: http://20.249.106.10:5173/
+
+## 🙋‍♀️ 프로젝트 기능
 ---
 ### 회원 가입(User)
 
