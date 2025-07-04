@@ -33,7 +33,7 @@ AIVLE에서 주관하는 5차 미니프로젝트 12조에서 사용한 코드입
 
 ## 🔧 아키텍처
 
-![image](https://github.com/user-attachments/assets/77c1d6d9-a816-4a1a-91e8-201eac21d844)
+ ![image](https://github.com/user-attachments/assets/77c1d6d9-a816-4a1a-91e8-201eac21d844)
 
 ## 🤖 API 설계 목록
 
@@ -48,53 +48,53 @@ Azure 배포 사이트: http://20.249.106.10:5173/
 ---
 ### 회원 가입(User)
 
-![image](https://github.com/user-attachments/assets/095eb810-c421-4a1e-a0e6-8ec40029250d)
-![image](https://github.com/user-attachments/assets/30e337d9-96cc-4405-b608-033ca007170a)
+ ![image](https://github.com/user-attachments/assets/095eb810-c421-4a1e-a0e6-8ec40029250d)
+ ![image](https://github.com/user-attachments/assets/30e337d9-96cc-4405-b608-033ca007170a)
 
 ---
 ### 로그인(User)
 
-![image](https://github.com/user-attachments/assets/5169f936-37b7-4a46-8fef-ca2980c63b19)
+ ![image](https://github.com/user-attachments/assets/5169f936-37b7-4a46-8fef-ca2980c63b19)
 
 ---
 ### 가입 1000포인트 확인(User)
 
-![image](https://github.com/user-attachments/assets/91611973-ab47-4952-abee-0aab40dbb5fc)
-![image](https://github.com/user-attachments/assets/218a2dfc-5191-4549-a658-cc578b8e9a27)
+ ![image](https://github.com/user-attachments/assets/91611973-ab47-4952-abee-0aab40dbb5fc)
+ ![image](https://github.com/user-attachments/assets/218a2dfc-5191-4549-a658-cc578b8e9a27)
 
 ---
 ### 포인트 구매(User 및 Author)
 
-![image](https://github.com/user-attachments/assets/deb58919-014e-47b9-b471-584d98fe6ca4)
-![image](https://github.com/user-attachments/assets/e1e7024a-b41b-4930-bbdc-5cf2882e7969)
+ ![image](https://github.com/user-attachments/assets/deb58919-014e-47b9-b471-584d98fe6ca4)
+ ![image](https://github.com/user-attachments/assets/e1e7024a-b41b-4930-bbdc-5cf2882e7969)
 
 ---
 ### 작가 신청(User)
-![image](https://github.com/user-attachments/assets/0f4538c2-450a-4e88-839f-3b1838b089ba)
-![image](https://github.com/user-attachments/assets/841f1eda-f471-4e23-a4b1-fe3c95eb18b4)
-![image](https://github.com/user-attachments/assets/16b54dd3-a9bc-48b4-965a-165b414ccac5)
+ ![image](https://github.com/user-attachments/assets/0f4538c2-450a-4e88-839f-3b1838b089ba)
+ ![image](https://github.com/user-attachments/assets/841f1eda-f471-4e23-a4b1-fe3c95eb18b4)
+ ![image](https://github.com/user-attachments/assets/16b54dd3-a9bc-48b4-965a-165b414ccac5)
 
 ---
 ### Admin 계정으로 로그인 (ID: admin@admin.com PW: admin1234) (Admin)
 
-![image](https://github.com/user-attachments/assets/e8871408-8590-4129-9d3b-15ae57dc79f6)
-![image](https://github.com/user-attachments/assets/596e66b1-5139-4931-8f37-d954c9308352)
-![image](https://github.com/user-attachments/assets/f162412b-97b7-4463-bade-ce41886a75c3)
-![image](https://github.com/user-attachments/assets/98015242-a29e-46a2-b966-1d057a009fa3)
+ ![image](https://github.com/user-attachments/assets/e8871408-8590-4129-9d3b-15ae57dc79f6)
+ ![image](https://github.com/user-attachments/assets/596e66b1-5139-4931-8f37-d954c9308352)
+ ![image](https://github.com/user-attachments/assets/f162412b-97b7-4463-bade-ce41886a75c3)
+ ![image](https://github.com/user-attachments/assets/98015242-a29e-46a2-b966-1d057a009fa3)
 
 ---
 ### User 계정으로 다시 로그인 (User -> Author 승격)
-![image](https://github.com/user-attachments/assets/88b9d45d-38b4-45f7-8b4e-bbbf66172fb8)
+ ![image](https://github.com/user-attachments/assets/88b9d45d-38b4-45f7-8b4e-bbbf66172fb8)
 
 
 ---
 ### 책 등록 Process(Author)
-![image](https://github.com/user-attachments/assets/5a010bb8-aff1-4bda-870d-aa07324cffc4)
-![image](https://github.com/user-attachments/assets/e2637854-a896-4233-8557-a79c80df5757)
-![image](https://github.com/user-attachments/assets/77a84116-2246-4443-8525-ffaee881f3fb)
-![image](https://github.com/user-attachments/assets/518f2924-d090-4ed1-9497-8f44f84955a3)
-![image](https://github.com/user-attachments/assets/8826b067-3739-4469-aca3-618240b7aa0b)
-![image](https://github.com/user-attachments/assets/beff736a-f392-44ea-8c01-ecee25e15ccf)
+ ![image](https://github.com/user-attachments/assets/5a010bb8-aff1-4bda-870d-aa07324cffc4)
+ ![image](https://github.com/user-attachments/assets/e2637854-a896-4233-8557-a79c80df5757)
+ ![image](https://github.com/user-attachments/assets/77a84116-2246-4443-8525-ffaee881f3fb)
+ ![image](https://github.com/user-attachments/assets/518f2924-d090-4ed1-9497-8f44f84955a3)
+ ![image](https://github.com/user-attachments/assets/8826b067-3739-4469-aca3-618240b7aa0b)
+ ![image](https://github.com/user-attachments/assets/beff736a-f392-44ea-8c01-ecee25e15ccf)
 
 ---
 ### AI 검토 및 생성 기능 작동 (FrontEnd에서는 보이지 않음) (AI)
@@ -103,14 +103,14 @@ Azure 배포 사이트: http://20.249.106.10:5173/
 ---
 ### 출간 완료(Author)
 
-![image](https://github.com/user-attachments/assets/51264fe5-0fb4-4ef4-8d8e-caf265d6d54d)
-![image](https://github.com/user-attachments/assets/22995674-6d60-477f-8b05-38d290935672)
+ ![image](https://github.com/user-attachments/assets/51264fe5-0fb4-4ef4-8d8e-caf265d6d54d)
+ ![image](https://github.com/user-attachments/assets/22995674-6d60-477f-8b05-38d290935672)
 
 ---
 ### 구독 신청
 
-![image](https://github.com/user-attachments/assets/3b032480-794f-4c7a-97d2-14cf5b77d89e)
-![image](https://github.com/user-attachments/assets/dc0c09af-ef2e-4ce4-a429-b1b9e6e721f7)
+ ![image](https://github.com/user-attachments/assets/3b032480-794f-4c7a-97d2-14cf5b77d89e)
+ ![image](https://github.com/user-attachments/assets/dc0c09af-ef2e-4ce4-a429-b1b9e6e721f7)
 
 - 구독자는 모든 도서 무료 구매 가능
   ![image](https://github.com/user-attachments/assets/1c3401a0-0491-49a4-bd7c-3ebb1f8561e7)
