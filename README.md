@@ -46,14 +46,17 @@ https://www.notion.so/temp-2227119fc6918083b5c3cc4a054e3a67
 ![image](https://github.com/user-attachments/assets/095eb810-c421-4a1e-a0e6-8ec40029250d)
 ![image](https://github.com/user-attachments/assets/30e337d9-96cc-4405-b608-033ca007170a)
 
+
 ### 로그인(User)
 
 ![image](https://github.com/user-attachments/assets/5169f936-37b7-4a46-8fef-ca2980c63b19)
+
 
 ### 가입 1000포인트 확인(User)
 
 ![image](https://github.com/user-attachments/assets/91611973-ab47-4952-abee-0aab40dbb5fc)
 ![image](https://github.com/user-attachments/assets/218a2dfc-5191-4549-a658-cc578b8e9a27)
+
 
 ### 포인트 구매(User 및 Author)
 
