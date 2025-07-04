@@ -105,7 +105,7 @@ Azure 배포 사이트: http://20.249.106.10:5173/
 
  ![image](https://github.com/user-attachments/assets/51264fe5-0fb4-4ef4-8d8e-caf265d6d54d)
  ![image](https://github.com/user-attachments/assets/22995674-6d60-477f-8b05-38d290935672)
-
+ 
 ---
 ### 구독 신청
 
@@ -114,4 +114,14 @@ Azure 배포 사이트: http://20.249.106.10:5173/
 
 - 구독자는 모든 도서 무료 구매 가능
   ![image](https://github.com/user-attachments/assets/1c3401a0-0491-49a4-bd7c-3ebb1f8561e7)
+
+---
+### 마이 페이지 및 구매한 책 조회(User)
+
+ ![image](https://github.com/user-attachments/assets/dd603358-2924-40df-8f2a-533203ed5560)
+ ![image](https://github.com/user-attachments/assets/3c5dd10f-e00f-4dca-8435-9c66a0c4e8e8)
+ ![image](https://github.com/user-attachments/assets/3d8fa299-5500-4519-a36f-a717d44cf5bd)
+
+
+
 
