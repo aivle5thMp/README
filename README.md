@@ -61,7 +61,7 @@ https://www.notion.so/temp-2227119fc6918083b5c3cc4a054e3a67
 
 
 ## 🙋‍♀️ 프로젝트 기능
----
+
 ### 회원 가입(User)
 
  ![image](https://github.com/user-attachments/assets/095eb810-c421-4a1e-a0e6-8ec40029250d)
