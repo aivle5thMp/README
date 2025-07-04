@@ -1,5 +1,7 @@
 # AIVLE_5차_자동_출간_및_구독_플랫폼 – " KT 걷다가서재 "
 
+![image](https://github.com/user-attachments/assets/ef7335cb-ef3e-4848-bfd7-a2f04a9979f6)
+
 
 AIVLE에서 주관하는 5차 미니프로젝트 12조에서 사용한 코드입니다. 
 **Spring boot, React, Kubernates** 를 활용하여 REST API를 설계 및 'AI를 활용한 북커버 만들기' 웹사이트를 구현했습니다.
@@ -39,3 +41,8 @@ https://www.notion.so/temp-2227119fc6918083b5c3cc4a054e3a67
 
 🙋‍♀️ 프로젝트 기능
 ---
+### 회원 가입
+
+![image](https://github.com/user-attachments/assets/095eb810-c421-4a1e-a0e6-8ec40029250d)
+![image](https://github.com/user-attachments/assets/9f05979c-80a8-47af-91da-2ab761d6cbdc)
+
