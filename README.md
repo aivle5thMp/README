@@ -123,13 +123,16 @@ https://www.notion.so/temp-2227119fc6918083b5c3cc4a054e3a67
  ![image](https://github.com/user-attachments/assets/22995674-6d60-477f-8b05-38d290935672)
  
 ---
-### 구독 신청
+### 구독 신청 및 책 구매 
 
  ![image](https://github.com/user-attachments/assets/3b032480-794f-4c7a-97d2-14cf5b77d89e)
  ![image](https://github.com/user-attachments/assets/dc0c09af-ef2e-4ce4-a429-b1b9e6e721f7)
 
 - 구독자는 모든 도서 무료 구매 가능
-  ![image](https://github.com/user-attachments/assets/1c3401a0-0491-49a4-bd7c-3ebb1f8561e7)
+  ![image](https://github.com/user-attachments/assets/1c3401a0-0491-49a4-bd7c-3ebb1f8561e7)_
+
+- 미구독는 포인트로 도서 구매
+  ![image](https://github.com/user-attachments/assets/0943d279-8b7f-4179-8025-c848baa92187)
 
 ---
 ### 마이 페이지 및 구매한 책 조회(User)
